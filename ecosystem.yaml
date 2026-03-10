@@ -1,0 +1,7 @@
+schema_version: '1.0'
+repo: example-choreographic-interface
+organ: II
+display_name: Choreographic UI example
+delivery:
+- platform: web_app
+  status: not_started
